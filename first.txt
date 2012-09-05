@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jiyi second line
+=======
+jiyi first line
+>>>>>>> 3f28223f903a8a33d29386fbde3c463a8e082a07
